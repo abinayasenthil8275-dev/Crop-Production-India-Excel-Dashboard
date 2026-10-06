@@ -23,7 +23,7 @@ Microsoft Excel: Data cleaning, PivotTables, PivotCharts, Slicers, KPI cards
 | File | Description |
 |---|---|
 | `Crop_Production_Dashboard.xlsx` | Final Excel dashboard |
-| `crop_production.csv` | Raw dataset |
+| `crop_production.xlsx` | Raw dataset |
 | `Crop_Production_ProblemStatement.docx` | Problem statement and dataset details |
 | `Crop_Production_Dashboard_Presentation.pptx` | Project presentation |
 | `FINAL DASHBOARD.pdf` | Final dashboard (PDF) |
